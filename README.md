@@ -1295,7 +1295,7 @@ One-day delay
     - Twitch just Reverted changes. Read article for more details
 - Ongoing Development
   - More Group Thins on the Way
-    - Udon UI UpdatesGroup Member cap will be raiced from 10,000 to 100,000
+    - Group Member cap will be raiced from 10,000 to 100,000
   - Performance Improvements
     - mirrors and shadows improvements
   - Settings Search
